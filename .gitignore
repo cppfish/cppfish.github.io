@@ -2,3 +2,4 @@ _avocado
 .sass-cache
 Gemfile.lock
 *.bat
+_site
