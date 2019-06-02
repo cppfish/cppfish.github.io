@@ -1,6 +1,6 @@
 ---
 title: Teaching Readiness to Teens
-image: /images/driving-readiness-teens.png
+image: /images/ishan-seefromthesky-403804-unsplash.jpg
 author: Missy
 published: true
 comments: true
@@ -18,7 +18,7 @@ Community mobility is a necessary part of human independence and socialization. 
 
 <!--### Screenshot Link to Published Page-->
 
-![Teaching Readiness to Teens](/images/driving-readiness-teens-screenshot.png)
+![Teaching Readiness to Teens](/images/ishan-seefromthesky-403804-unsplash.jpg)
 
 <!--<object data="/docs/teaching-driving-readiness-to-young-teens-alt-ed-austin.pdf" width="1000" height="1000" type='application/pdf'></object>-->
 
