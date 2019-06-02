@@ -17,37 +17,16 @@ layout: post
 
 ## 苏博入口
 
-### Non-associative learning
-Non-associative learning refers to "a relatively permanent change in the strength of response to a single stimulus due to repeated exposure to that stimulus. Changes due to such factors as sensory adaptation, fatigue, or injury do not qualify as non-associative learning
 
 ![苏博]({{site.baseurl}}/images/suzhou/DSC00365.jpg)
 
 
 
 
-
-
-### Active learning
-Active learning occurs when a person takes control of his/her learning experience. Since understanding information is the key aspect of learning, it is important for learners to recognize what they understand and what they do not. By doing so, they can monitor their own mastery of subjects. 
-
-
-Active learning encourages learners to have an internal dialogue in which they verbalize understandings. This and other meta-cognitive strategies can be taught to a child over time. 
-
-Studies within metacognition have proven the value in active learning, claiming that the learning is usually at a stronger level as a result. In addition, learners have more incentive to learn when they have control over not only how they learn but also what they learn.
-
-Active learning is a key characteristic of student-centered learning. Conversely, passive learning and direct instruction are characteristics of teacher-centered learning (or traditional education).
-
-
-
-
 1999年苏州市委、市政府邀请世界华人建筑师贝聿铭设计苏州博物馆新馆。2006年10月6日，苏州博物馆新馆建成并正式对外开放。是一座集现代化馆舍建筑、古建筑与创新山水园林三位一体的综合性博物馆。
-
-![青玉 御制九符]({{site.baseurl}}/images/suzhou/DSC00334.jpg)
 
 
 苏州博物馆新馆其特色体现在：建筑造型与所处环境自然融合，空间处理独特，建筑材料考究和内部构思，及最大限度地把自然光线引入到室内。
-
-
 
 
 在建筑的构造上，玻璃、钢铁结构让现代人可以在室内借到大片天光，开放式钢结构替代传统建筑的木构材料，屋面形态的设计突破了中国传统建筑“大屋顶”在采光方面的束缚。由几何形态构成的坡顶，首先，屋顶之上立体几何形体的玻璃天窗设计独特。
@@ -61,13 +40,10 @@ Active learning is a key characteristic of student-centered learning. Conversely
 为了使材料和形式协调，采用深灰色花岗石取代传统的灰瓦，这种被称为“中国黑”的花岗石黑中带灰，淋了雨是黑的，太阳一照颜色变浅成深灰色。石片加工成菱形，依次平整地铺设于屋面之上，立体感很强。
 
 
-
 ![片石假山]({{site.baseurl}}/images/suzhou/DSC00351.jpg)
 ![片石假山]({{site.baseurl}}/images/suzhou/su-3.jpg)
 
-
 ![片石假山]({{site.baseurl}}/images/suzhou/DSC00355.jpg)
-
 
 
 
@@ -85,28 +61,15 @@ Active learning is a key characteristic of student-centered learning. Conversely
 
 ![绣画]({{site.baseurl}}/images/suzhou/DSC00336.jpg)
 
+![青玉 御制九符]({{site.baseurl}}/images/suzhou/DSC00334.jpg)
 
 
 ![绣画]({{site.baseurl}}/images/suzhou/DSC00331.jpg)
-![绣画]({{site.baseurl}}/images/suzhou/DSC00334.jpg)
 
 ![绣画]({{site.baseurl}}/images/suzhou/DSC00335.jpg)
 ![绣画]({{site.baseurl}}/images/suzhou/DSC00343.jpg)
 
 
-
-
-<!-- 
-DSC00330
-DSC00331
-DSC00334
-DSC00335
-DSC00336
-DSC00343 -->
-
-
-
-	
 	
 
 ## 贝聿铭与苏博
