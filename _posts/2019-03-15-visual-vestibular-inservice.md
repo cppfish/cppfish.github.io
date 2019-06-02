@@ -2,7 +2,7 @@
 title: Visual Vestibular Inservice
 image: /images/visual-vestibular-inservice.jpg
 author: Missy
-published: true
+published: false
 comments: true
 categories: 
     - Vision Therapy

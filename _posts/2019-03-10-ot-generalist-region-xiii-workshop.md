@@ -2,7 +2,7 @@
 title: OT Generalist Region XII Training
 image: /images/ot-generalist-region-xiii-workshop.jpg
 author: Missy
-published: true
+published: false
 comments: true
 categories: 
     - Pediatric OT

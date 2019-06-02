@@ -2,7 +2,7 @@
 title: Sensory Parent Teacher Training
 image: /images/sensory-parent-teacher-training.jpg
 author: Missy
-published: true
+published: false
 comments: true
 categories: 
     - Sensory Integration

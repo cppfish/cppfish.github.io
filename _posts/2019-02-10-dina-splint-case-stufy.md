@@ -2,7 +2,7 @@
 title: Dynasplint Case Study
 image: /images/dina-splint-case-study.jpg
 author: Missy
-published: true
+published: false
 comments: true
 categories: 
     - Pediatric OT
