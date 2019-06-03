@@ -1,6 +1,6 @@
 ---
 title: Go wherever you like!
-image: /images/huangshan/04_zps31tklx9i.jpg
+image: /images/huangshan/anhui-huangshan-feature.jpg
 author: john
 published: true
 categories: 
