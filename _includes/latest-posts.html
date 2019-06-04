@@ -15,7 +15,7 @@
                 <div class="card-body">
                   <span><small>{{post.date | date_to_string }}</small></span>
                   <h5>{{post.title}}</h5>
-                  <p>{{post.content | strip_html | truncate: 95 }}</p>
+                  <p>{{post.content | strip_html | truncate: 50 }}</p>
                 </div>
               </div>
             </a>
