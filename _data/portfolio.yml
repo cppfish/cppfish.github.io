@@ -1,20 +1,19 @@
-#- title: Headphones
-#  category: Concept & Design
-#  image: /images/portfolio/icons8-team-643494-unsplash.jpg
-#  link: /portfolio/
-  
-- title: Hospitals & Clinics
-  category: 
-  image: /images/portfolio/hospitals-and-clinics.jpg
-  link: /portfolio/hospitals-and-clinics/
+- title: Banana
+  category: Photography
+  image: /images/citylogo/linan.jpg
+  link: /portfolio/linan/
 
-- title: Driver Education Lessons
-  category:
-  image: /images/portfolio/canva-blue-suv-on-road.jpg
-  link: /portfolio/driver-education-lessons/
+- title: 徽派建筑
+  category: Photography
+  image: /images/citylogo/memory.jpg
+  link: /portfolio/hui-style-architecture/
 
-#- title: Banana
-#  category: Photography
-#  image: /images/portfolio/mike-dorner-173502-unsplash.jpg
-#  link: /portfolio/
-#
+- title: Lost In Hangzhou
+  category: Photography
+  image: /images/citylogo/west-lake.png
+  link: /portfolio/hangzhou/
+
+- title: Chongqing University
+  category: Photography
+  image: /images/citylogo/cqu-edu.jpg
+  link: /portfolio/chongqing-university/
