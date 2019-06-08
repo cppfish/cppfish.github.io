@@ -1,8 +1,20 @@
-- name: A
-  image: /images/customers/image2vectorADEDgray.svg
+- name: A0
+  image: /images/citylogo/cqu_logo.png
 
 - name: A1
-  image: /images/customers/image2vectorADHDgray.svg
+  image: /images/citylogo/zjartmus.jpg
   
 - name: A2
-  image: /images/customers/space-cube.svg
+  image: /images/citylogo/zjlib.jpg
+
+- name: A3
+  image: /images/citylogo/nanshanlib.jpg
+
+- name: A4
+  image: /images/citylogo/zjlib.gif
+
+- name: A5
+  image: /images/citylogo/nanshanlib.png
+
+- name: A6
+  image: /images/citylogo/nanshanlib.png
