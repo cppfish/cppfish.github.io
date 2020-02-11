@@ -16,3 +16,8 @@ Umbrella Academy is a anti-fragile twenty-two-column Jekyll theme, perfect for b
 [2]: icons8-team-643494-unsplash.jpg (live preview)
 
 
+update
+
+gem install jekyll --pre
+
+>> successfully installed jekyll-4.0.0
