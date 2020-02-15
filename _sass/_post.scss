@@ -131,3 +131,17 @@
 			margin-left: 0.5em;
 		}
 	}
+
+	.header-banner {
+		margin-top: 100px;
+		height: 35vh;
+		width: 100%;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		
+		@include media-query($on-palm) {
+			height: 35vh;
+			margin-top: 50px;
+		}
+	}
