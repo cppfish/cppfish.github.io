@@ -48,9 +48,9 @@ description: #
       </div>
       <div class="row align-items-center justify-content-center">
         <div class="col-md-3 individual">
-          <img width="152" height="152" class="rounded-circle" src="/images/author-image.jpg" alt="">
+          <img width="152" height="152" class="rounded-circle" src="/images/{{site.author.image}}" alt="{{site.author.name}}">
           <!--        <img width="100" height="100" class="team-image rounded-circle" src="/images/author-image.jpg" alt="">-->
-          <h4 class="name">Luke</h4>
+          <h4 class="name">{{site.author.name }}</h4>
           <p class="position"><small>Founder / Owner</small></p>
           <ul class="team-social">
             {% if site.author.linkedin %}
