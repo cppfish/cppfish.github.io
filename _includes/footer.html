@@ -7,7 +7,7 @@
           <!--					<h3>{{site.title}}</h3>-->
           <h3>{{site.title}}</h3>
           <p>{{site.title-creds}}</p>
-          <p>三毛的旅游日记</p>
+          <p>{{site.description}}</p>
 
           <!-- TODO (sskakles) update this shit here -->
           <!--
@@ -26,7 +26,7 @@
         </ul>
       </div>
       <div class="col-md-3">
-        <h3>Journey</h3>
+        <h3>LATEST POSTS</h3>
         <ul>{% for post in site.posts limit: 4 %}
           <li><a href="{{post.url}}">{{post.title}}</a></li>
           {% endfor %}
