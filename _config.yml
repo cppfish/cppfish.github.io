@@ -14,7 +14,7 @@ default-image: /images/avocado-cover.png # This image will be shown on sharing a
 
 # Author details shows up at the end of every article/blog
 author:
-    name: 红帽
+    name: Marc
     bio: "我梦见我家乡的桃花开了。  <br/><br/>原来我已经有很多年没回去了。"
     image: author-image.png # Choose a 200x200px image and place it inside /images directory.
     #facebook: https://www.facebook.com/missybell.atx
