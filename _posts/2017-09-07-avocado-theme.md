@@ -1,12 +1,12 @@
 ---
-title: Avocado Theme
-image: /images/thought-catalog-620865-unsplash.jpg
+title: 项目进度管理书籍
+image: /images/hangzhou/Broken-Bridge-2-copy.jpg
 description: Health Wellness Professional - Management, Educator, Innovator, Occupational Therapist, Pediatrics, Safe Driving.
 buy-link: https://pages.razorpay.com/avocado
 author: Missy
 published: false
 categories:
-    - work
+    - schedule planning
 layout: post
 ---
 
