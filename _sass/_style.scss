@@ -310,7 +310,7 @@ section {
 
 footer {
     font-weight: 300;
-    background: #222;
+    background: #15b3a5;
 	  color: #ddd;
     padding: 40px 0;
 
@@ -323,14 +323,14 @@ footer {
 	p {
 		font-size: $base-fs * 0.7;
 		font-weight: 300;
-		color: #aaa;
+		color: #fff;
 		line-height: 1.3;
 	}
 
  a {
     font-size: $base-fs * 0.7;
     font-weight: 300;
-    color: #aaa;
+    color: #fff;
     line-height: 1.3;
      &:hover {
       color: #fff;
@@ -346,7 +346,7 @@ footer {
   
   li span {
     font-weight: 300;
-    color: #aaa;
+    color: #fff;
     font-size: $base-fs * 0.7;    
     line-height: 1.3;
     
