@@ -1,6 +1,7 @@
 ---
 title: Visual Vestibular Inservice
 image: /images/visual-vestibular-inservice.jpg
+header: /images/visual-vestibular-inservice.jpg
 author: Missy
 published: false
 comments: true

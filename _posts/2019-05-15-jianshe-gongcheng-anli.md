@@ -1,6 +1,7 @@
 ---
 title: 建设工程造价案例分析
 image: /images/hangzhou/hz-west-lake-1200px.jpg
+header: /images/hangzhou/hz-west-lake-1200px.jpg
 author: Luke
 published: true
 comments: true
@@ -8,7 +9,7 @@ categories:
     - Training Brake
     - Drivers Ed
     - CDRS
-layout: postno
+layout: post
 ---
 
 

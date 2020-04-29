@@ -1,6 +1,7 @@
 ---
 title: 建设工程计价相关的规范及规定
 image: /images/lake.png
+header: /images/lake.png
 author: Missy
 published: true
 comments: true
@@ -8,7 +9,7 @@ categories:
     - Sensory Integration
     - Sensory Processing Disorder
     - Sensory Therapy
-layout: postno
+layout: post
 ---
 
 

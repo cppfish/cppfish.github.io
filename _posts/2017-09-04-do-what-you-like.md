@@ -1,6 +1,7 @@
 ---
 title: Do what you like!
 image: /images/julia-caesar-15080-unsplash.jpg
+header: /images/julia-caesar-15080-unsplash.jpg
 author: john
 published: false
 categories: 

@@ -1,6 +1,7 @@
 ---
 title: OT Generalist Region XII Training
 image: /images/ot-generalist-region-xiii-workshop.jpg
+header: /images/ot-generalist-region-xiii-workshop.jpg
 author: Missy
 published: false
 comments: true

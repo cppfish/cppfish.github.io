@@ -1,6 +1,7 @@
 ---
 title: Love whatever you like!
 image: /images/linan/DSCF0286.jpg
+header: /images/linan/DSCF0286.jpg
 author: john
 published: true
 categories: 

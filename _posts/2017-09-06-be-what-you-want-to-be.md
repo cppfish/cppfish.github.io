@@ -1,6 +1,7 @@
 ---
 title: Be what you want to be!
 image: /images/hangzhou/hangzhou_bct.png
+header: /images/hangzhou/hangzhou_bct.png
 author: john
 published: true
 categories: 
