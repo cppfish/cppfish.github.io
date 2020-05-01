@@ -1,6 +1,6 @@
 ---
 title: Role of Pediatric OT
-image: /images/image-5.png
+image: #
 header: #
 author: Missy
 published: true

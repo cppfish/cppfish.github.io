@@ -1,7 +1,7 @@
 ---
 title: Do what you like!
 image: /images/hz-west-lake-400px.jpg
-header: 
+header: #
 author: john
 published: true
 categories: 
