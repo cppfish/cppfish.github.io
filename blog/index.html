@@ -11,7 +11,7 @@ description: Find all about avocado jekyll theme posts here.
       {% for post in paginator.posts %}
       <a class="nostyle" href="{{site.baseurl}}{{post.url}}">
         <div class="row cards blog-list rev">
-          <div class="col-md-4 image" style="background-image: url({{site.baseurl}}{{post.image}});">
+          <div class="col-md-4 image" style="background-image: url({{site.baseurl}}{% if post.image %}{{post.image}}{% else %}{{ site.card-img}}{% endif %});">
           </div>
           <div class="col-md-8 content">
             <h3 class="blog-index-title">{{post.title}}</h3>
