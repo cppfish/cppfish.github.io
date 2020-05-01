@@ -1,7 +1,6 @@
 ---
 title: 项目计划管理
-image: /images/hangzhou/Broken-Bridge-2-copy.jpg
-header: /images/hangzhou/Broken-Bridge-2-copy.jpg
+image: /images/image-4.png
 author: Missy
 published: true
 comments: true

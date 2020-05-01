@@ -1,9 +1,9 @@
 ---
 title: Visual Vestibular Inservice
-image: /images/visual-vestibular-inservice.jpg
-header: /images/visual-vestibular-inservice.jpg
+image: /images/hangzhou_bct400.jpg
+header: #
 author: Missy
-published: false
+published: true
 comments: true
 categories: 
     - Vision Therapy

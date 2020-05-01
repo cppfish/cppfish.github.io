@@ -1,6 +1,6 @@
 ---
 title: 建设工程造价案例分析
-image: /images/hangzhou/hz-west-lake-1200px.jpg
+image: /images/hz-west-lake-400px.jpg
 header: /images/hangzhou/hz-west-lake-1200px.jpg
 author: Luke
 published: true

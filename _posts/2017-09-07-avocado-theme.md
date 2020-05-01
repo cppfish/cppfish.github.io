@@ -1,11 +1,11 @@
 ---
 title: 项目进度管理书籍
-image: /images/hangzhou/Broken-Bridge-2-copy.jpg
+image: /images/image-1.png
 header: /images/hangzhou/Broken-Bridge-2-copy.jpg
 description: Health Wellness Professional - Management, Educator, Innovator, Occupational Therapist, Pediatrics, Safe Driving.
 buy-link: https://pages.razorpay.com/avocado
 author: Missy
-published: false
+published: true
 categories:
     - schedule planning
 layout: post
