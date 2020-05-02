@@ -22,7 +22,7 @@ For teenagers, driving is a sort of rite of passage. It indicates transitioning 
 
 <!--### Screenshot Link to Published Page-->
 
-![Teaching Readiness to Teens](/images/yunnan/yn8.jpg)
+
 
 
 <section id="services">
