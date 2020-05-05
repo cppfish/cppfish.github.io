@@ -43,3 +43,6 @@ According to Jacobsen, "Yoga has five principal meanings:
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Yoga){: target="_blank"}
 
 Image Credits: [Pixabay](https://pixabay.com)
+
+
+<!-- <embed src="/docs/ReadMe.pdf" width="1000" height="1000" type="application/pdf"/> -->

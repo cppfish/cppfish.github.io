@@ -1,6 +1,6 @@
 ---
 title: 建设工程计价相关的规范及规定
-image: /images/lake.png
+image: /images/lake400x250.jpg
 header: /images/lake.png
 author: Missy
 published: true
