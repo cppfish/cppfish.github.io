@@ -21,3 +21,10 @@ update
 gem install jekyll --pre
 
 >> successfully installed jekyll-4.0.0
+
+
+
+<!-- <div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="/docs/Column_Plots_in_Sample_OPJ.pptx" allowfullscreen></iframe>
+</div>
+ -->
