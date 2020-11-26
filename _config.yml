@@ -37,7 +37,7 @@ enable-chartjs: no
 permalink: /blog/:title/
 
 # Pagination - Posts per page in the blog index
-paginate: 6
+paginate: 9
 paginate_path: /blog/page:num/
 
 # Define titles for the sections
