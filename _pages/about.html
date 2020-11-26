@@ -6,72 +6,11 @@ description: #
 ---
 
 <div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      {% include breadcrumbs.html %}
-    </div>
-  </div>
-  <div id="team">
-    <div class="row">
-      <div class="col-md-6">
-        <!--    <div class="col-md-6 history">-->
-        <h6 class="double-u">在山那边</h6>
 
 
 
-      </div>
+{% include latest-posts.html %}
 
-      <div class="col-md-6">
-        <!--    <div class="col-md-6 goals">-->
-        <!--			<h6 class="double-u">Goals</h6>-->
-        <!--      <h6 class="double-u">Goals and Specialization</h6>-->
-        <h6 class="double-u"> 流浪的开始 </h6>
-
-
-      </div>
-      
-    <!-- <div class="col-md-6 goals"> -->
-		<div class="col-md-6">
-			<h6 class="double-u">新的目的地</h6>
-
-			
-		</div>
-
-    </div>
-    <hr>
-
-    <div class="team-container">
-      <div class="row">
-        <div class="col-md-12">
-          <!--				<h6 class="double-u">My Team</h6>-->
-        </div>
-      </div>
-      <div class="row align-items-center justify-content-center">
-        <div class="col-md-3 individual">
-          <img width="152" height="152" class="rounded-circle" src="/images/{{site.author.image}}" alt="{{site.author.name}}">
-          <!--        <img width="100" height="100" class="team-image rounded-circle" src="/images/author-image.jpg" alt="">-->
-          <h4 class="name">{{site.author.name }}</h4>
-          <p class="position"><small>Founder / Owner</small></p>
-          <ul class="team-social">
-            {% if site.author.linkedin %}
-            <li><a target="_blank" href="{{site.author.linkedin}}"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-            {% endif %}
-            {% if site.author.facebook %}
-            <li><a target="_blank" href="{{site.author.facebook}}"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
-            {% endif %}
-
-            <!--					<li><a href=""><i class="fa fa-twitter-square fa"></i></a></li>-->
-            <!--
-					<li><a href="https://www.facebook.com/missybell.atx"><i class="fa fa-facebook-official fa"></i></a></li>
-					<li><a href="https://www.linkedin.com/in/melissabellatx/"><i class="fa fa-linkedin-square fa"></i></a></li>
--->
-
-          </ul>
-        </div>
-
-      </div>
-    </div>
-  </div>
 </div>
 
 
