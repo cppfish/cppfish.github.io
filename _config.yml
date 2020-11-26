@@ -27,10 +27,10 @@ author:
 markdown: kramdown
 
 # Mathjax setting
-enable-mathjax: yes
+enable-mathjax: no
 
 # Charts
-enable-chartjs: yes
+enable-chartjs: no
 
 
 # This defines how the URLs should look like
