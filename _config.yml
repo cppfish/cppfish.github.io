@@ -15,7 +15,7 @@ header: /images/banner.jpg
 card-img: /images/card-img2-400x250.jpg
 # Author details shows up at the end of every article/blog
 author:
-    name: Luke
+    name: C929
     bio: "我梦见我家乡的桃花开了。  <br/><br/>原来我已经有很多年没回去了。"
     image: author-image.png # Choose a 200x200px image and place it inside /images directory.
     #facebook: https://www.facebook.com/missybell.atx
@@ -37,11 +37,11 @@ enable-chartjs: no
 permalink: /blog/:title/
 
 # Pagination - Posts per page in the blog index
-paginate: 9
+paginate: 5
 paginate_path: /blog/page:num/
 
 # Define titles for the sections
-name: Luke Blog
+name: C929 Blog
 projects: All things OTR, DRS, CDI, and CPT
 
 
@@ -61,7 +61,7 @@ share: yes # Change it to `no` to remove share buttons.
 
 
 # Comments by Disqus # Sign up with Disqus to get your shortcode. Leave it blank if you do not want to run diqus code on the website.
-disqus: # missybell-atx #webjeda-demo
+disqus: # missybell-atx
 
 
 #
