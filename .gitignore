@@ -5,4 +5,4 @@ update_rubygems.bat
 update-build.bat
 update-commit.bat
 Gemfile.lock
-# .jekyll-cache
+.jekyll-cache
