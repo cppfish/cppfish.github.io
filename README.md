@@ -1,30 +1,28 @@
-# [Umbrella Academy Jekyll theme](https://www.netflix.com/title/80186863)
+# Minimal Text
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
-[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg)](https://jekyllrb.com/)
-[![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://rubygems.org/gems/minimal-mistakes-jekyll)
+Minimal Text is a clean and lightweight Jekyll Theme
 
-Umbrella Academy is a anti-fragile twenty-two-column Jekyll theme, perfect for building, well nothing really and customized by you :smile:.
+## Documentation
 
-:sparkles: See what's new in the [CHANGELOG](CHANGELOG.md).
+__Baseurl__
 
-## Live preview and demo page
+```yaml
+---
+title: Minimal Text
+baseurl: "/Minimal-Text"
+```
+The site baseurl is prepended to asset links and the home button in the `post.html` layout. Please note it must start with a "/"
+By changing this you are changing the location of your website. gh.clarkhacks.com`/Minimal-Text` is the location of Minimal-Text in my case.
 
-[![Live preview][2]][1]
+__Pagination__
 
-[1]: https://www.netflix.com/title/80186863/
-[2]: icons8-team-643494-unsplash.jpg (live preview)
+```yaml
+paginate: 5
+paginate_path: "/:num/"
+```
+`paginate` in `_config.yml` is the number of post blocks that will appear on a single page.
+`paginate_path` is at what location your blog pages will be displayed.
 
+__The documentation has been implemented because of user questions.__ For more documentation to be please request what you need defined.
 
-update
-
-gem install jekyll --pre
-
->> successfully installed jekyll-4.0.0
-
-
-
-<!-- <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="/docs/Column_Plots_in_Sample_OPJ.pptx" allowfullscreen></iframe>
-</div>
- -->
+![screenshot](screenshot.jpg)

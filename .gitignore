@@ -1,5 +1,6 @@
-_avocado
-.sass-cache
-Gemfile.lock
-*.bat
-_site
+_site/
+.sass-cache/
+.jekyll-metadata
+update_rubygems.bat
+update-build.bat
+update-commit.bat
