@@ -6,3 +6,13 @@ update-build.bat
 update-commit.bat
 Gemfile.lock
 .jekyll-cache
+*.gem
+.bundle
+.jekyll-cache
+.sass-cache
+Gemfile.lock
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+jekyll-podcaster.gemspec
