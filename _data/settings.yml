@@ -3,7 +3,7 @@ analytics-id:
 pages:
   - {name: 'Episodes', url: 'episodes.html'}
   - {name: 'Categories', url: 'categories.html'}
-  - {name: 'GitHub', url: '#'}
+  # - {name: 'GitHub', url: '#'}
   # - {name: 'Get This Theme', url: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
 
 social:
