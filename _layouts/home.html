@@ -8,7 +8,7 @@ layout: default
 
     <div class = "cover-img">
       {% if post.cover %}
-        <img src="{{post.cover}}" alt="Podcast Cover">
+        <img src="{{post.cover}}" alt="Post Cover">
       {% else %}
         <img src="{{ "/assets/img/Podcast_Cover_Small.jpg" | absolute_url}}" alt="Podcast Cover">
       {% endif %}
@@ -35,7 +35,10 @@ layout: default
     {% capture title %}
         {{- post.title -}}
     {% endcapture %}
+    
+    {% if post.file %}
     {% include player.html file=file title=title %}
+    {% endif %}
 
     <div class = "long-excerpt">
         <p>

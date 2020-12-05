@@ -8,9 +8,9 @@ author:
   name: "#"
   email: "****@gmail.com"
   url: "https://***.me"
-permalink: pretty
-permalink: /:title
-keywords: [podcast, jekyll]
+# permalink: pretty
+permalink: /:year/:month/:day/:title.html
+keywords: [Marc, jekyll]
 
 #Plugins
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
@@ -18,7 +18,7 @@ plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 #exclude: [_podcast.rss] #Ignore this, it will be used in case I decide to add rss feed
 
 #Pagination
-paginate: 1
+paginate: 3
 paginate_path: "/page-:num/"
 
 #Sass
