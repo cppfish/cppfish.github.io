@@ -8,8 +8,8 @@ author:
   name: "Erick"
   email: "erichueng@gmail.com"
   url: "https://github.com/cppfish"
-# permalink: pretty
-permalink: /:year/:month/:day/:title.html
+permalink: pretty
+permalink: /:year/:month/:day/:title
 keywords: [computer science, jekyll, program]
 
 #Plugins
