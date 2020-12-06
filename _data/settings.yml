@@ -4,17 +4,13 @@ pages:
   - {name: 'Episodes', url: 'episodes.html'}
   - {name: 'Categories', url: 'categories.html'}
   # - {name: 'GitHub', url: '#'}
-  # - {name: 'Get This Theme', url: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
 
 social:
-  - {icon: 'instagram', type: "brand", link: '#'}
   - {icon: 'youtube', type: "brand", link: '#'}  
   - {icon: 'rss', type: "solid", link: "#"}
 
 websites-podcast:
-  - {name: 'Apple Podcast', link: '#'}
   - {name: 'Android', link: '#'}
-  - {name: 'Spreaker', link: '#'}
   - {name: 'RSS', link: '#'}
 
 translate-date: true #See _includes/date.html to translate the months' name
@@ -22,4 +18,4 @@ shownotes: #
 
 #Disqus
 disqus:
-  disqus_shortname: 
+  disqus_shortname: #
