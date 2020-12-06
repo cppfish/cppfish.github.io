@@ -7,11 +7,11 @@ pages:
 
 social:
   - {icon: 'youtube', type: "brand", link: '#'}  
-  - {icon: 'rss', type: "solid", link: "#"}
+  - {icon: 'rss', type: "solid", link: "/rss.xml"}
 
 websites-podcast:
   - {name: 'Android', link: '#'}
-  - {name: 'RSS', link: '#'}
+  - {name: 'RSS', link: "/rss.xml"}
 
 translate-date: true #See _includes/date.html to translate the months' name
 shownotes: #
