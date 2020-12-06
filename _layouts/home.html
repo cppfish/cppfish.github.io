@@ -38,6 +38,8 @@ layout: default
     
     {% if post.file %}
     {% include player.html file=file title=title %}
+    {% else %}
+    {% include play-non.html title=title %}
     {% endif %}
 
     <div class = "long-excerpt">
