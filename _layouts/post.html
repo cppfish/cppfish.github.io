@@ -32,7 +32,7 @@ layout: default
         <div class="categories">
                 {% assign tags = page.tag %}
                 {% for tag in tags %}
-                  <a href="{% capture url %}/tags/#{{ tag | slugify }}{% endcapture %}
+                  <a href="{% capture url %}/tags.html/#{{ tag | slugify }}{% endcapture %}
                   {{ url | absolute_url }}">{{tag}}</a>
                   {% unless forloop.last %}&nbsp;{% endunless %} 
                 {% endfor %}
