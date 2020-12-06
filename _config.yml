@@ -1,6 +1,6 @@
 # Site settings
 title: "长风"
-description: "#"
+description: "吾生也有涯，而知也无涯，以有涯随无涯，殆已。"
 podcast-description: "吾生也有涯，而知也无涯，以有涯随无涯，殆已。"
 url:  # Actual base url of the website
 baseurl: #"/"   # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
