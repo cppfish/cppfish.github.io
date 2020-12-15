@@ -4,7 +4,7 @@ layout: post
 cover: /assets/img/arch-pre.jpg
 categories: [Architecture, City Plan]
 type: extra # I use this to split main episodes to extra ones
-description: 吃了语文不好的亏，进了“建筑老八校”，确发现土木与建筑的天壤之别，从此开始了充满遗憾的求学历程，好在完整的读完了。
+description: 吃了语文不好的亏，进了“建筑老八校”，却发现土木与建筑的天壤之别，从此开始了充满遗憾的求学历程，好在完整的读完了。
 length: "10:14" # mm:ss
 ---
 
