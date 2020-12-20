@@ -6,6 +6,7 @@ categories: [Example, Jekyll]
 type: extra # I use this to split main episodes to extra ones
 description: Description goes here
 length: "52:14" # mm:ss
+cover: /assets/img/golang.jpg
 ---
 
 
