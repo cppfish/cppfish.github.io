@@ -17,4 +17,7 @@ title: Categories
         </ul>
     </div>
   </div>
+
+  <hr>
+  
 {% endfor %}

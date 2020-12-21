@@ -6,7 +6,7 @@ tag: [cost management, nets]
 type: extra
 description: "梳理造价信息发布网站"
 videoid: #
-cover: /assets/img/arch-1.jpg
+cover: /assets/img/zjcostinfo.jpg
 ---
 
 |    NO.      |       造价网       |    link          |  
