@@ -2,7 +2,7 @@
 title: Go 编程语言书单
 layout: post
 tag: [List, Golang]
-categories: [Example, Jekyll]
+categories: [coding]
 type: main
 description: Description goes here
 length: "52:14" # mm:ss
