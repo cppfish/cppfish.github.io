@@ -2,8 +2,8 @@
 title: 读《Go语言编程入门与实战技巧》
 layout: post
 categories: coding
-tag: [Web, GoLang]
-type: main # I use this to split main episodes to extra ones
+tag: [Web, Golang]
+type: extra
 description: "Go语言是通用编程语言，更适合Web服务器端开发，当然也有Web框架，如Beego、Gorilla，但根据目前的知识和需求，还不需要深入了解。"
 videoid: #
 cover: /assets/img/golangbook_1.jpg

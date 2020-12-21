@@ -3,7 +3,7 @@ title: 造价信息网站
 layout: post
 categories: [cost management]
 tag: [cost management, nets]
-type: main # I use this to split main episodes to extra ones
+type: extra
 description: "梳理造价信息发布网站"
 videoid: #
 cover: /assets/img/arch-1.jpg

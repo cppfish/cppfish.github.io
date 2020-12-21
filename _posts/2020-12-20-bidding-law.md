@@ -4,7 +4,7 @@ layout: post
 cover: /assets/img/2006-1325.jpg
 categories: [cost management]
 tags: [cost management, bidding law]
-type: main # I use this to split main episodes to extra ones
+type: main
 description: 梳理造价管理需熟悉的法律、法规、国家标准等重要文件。
 ---
 

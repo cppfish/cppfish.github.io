@@ -4,7 +4,7 @@ layout: post
 tag: SQLite
 cover: /assets/img/sqlite_1.jpg
 categories: [coding]
-type: extra # I use this to split main episodes to extra ones
+type: extra
 description: Description goes here
 file: https://music.163.com/song/media/outer/url?id=28668855.mp3
 length: #

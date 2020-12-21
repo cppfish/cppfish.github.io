@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Episodes
+title: 图书清单
 ---
 <div class = "episodes">
 
-<h2> Episodes </h2>
+<h2> Main 图书清单 </h2>
 <ul>
 {% for post in site.posts %}    
     {% if post.type == "main" %}
@@ -16,7 +16,9 @@ title: Episodes
 {% endfor %}
 </ul>
 
-<h2> Extra Episodes </h2>
+<hr>
+
+<h2> Extra 阅读笔记 </h2>
 <ul>
 {% for post in site.posts %}    
     {% if post.type == "extra" %}
