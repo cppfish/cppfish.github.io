@@ -5,11 +5,10 @@ layout: default
 <div class = "single-post">
 
         <h2>{{page.title}}</h2>
-
+        <br>
         <hr>
 
         <p>{{page.description}}</p>
-
 
         {% capture file %}
                 {{- page.file -}}
@@ -37,7 +36,7 @@ layout: default
             {% if page.previous %}
             <a  href="{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Prev</a>
             {% else %}
-            <<a href="#">&larr; Prev</a>
+            <a href="#">&larr; Prev</a>
             <!-- <span class="inactive"><a href="#">&larr; Prev</a></span> -->
             {% endif %}
             {% if page.next %}
