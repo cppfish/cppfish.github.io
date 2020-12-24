@@ -6,7 +6,10 @@ layout: default
 
         <h2>{{page.title}}</h2>
 
+        <hr>
+
         <p>{{page.description}}</p>
+
 
         {% capture file %}
                 {{- page.file -}}
@@ -28,6 +31,24 @@ layout: default
         {% if site.data.settings.shownotes == true %}
                 {% include shownotes.html %}
         {% endif %}
+
+
+       <div class="pagination">
+            {% if page.previous %}
+            <a  href="{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Prev</a>
+            {% else %}
+            <<a href="#">&larr; Prev</a>
+            <!-- <span class="inactive"><a href="#">&larr; Prev</a></span> -->
+            {% endif %}
+            {% if page.next %}
+            <a href="{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a>
+            {% else %}
+            <a href="#">Next &rarr;</a>
+            <!-- <span class="inactive"><a href="#">Next &rarr;</a></span> -->
+            {% endif %}
+
+        </div>
+
 
         <div class="categories">
                 {% assign tags = page.tag %}
