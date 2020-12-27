@@ -3,7 +3,7 @@ title: 工程造价有关的法律、标准
 layout: post
 cover: /assets/img/2006-1325.jpg
 categories: [cost management]
-tags: [cost management, bidding law]
+tag: [cost management, bidding law]
 type: main
 description: 梳理造价管理需熟悉的法律、法规、国家标准等重要文件。
 ---
