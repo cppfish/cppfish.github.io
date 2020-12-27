@@ -60,6 +60,7 @@ length: "10:14" # mm:ss
 ### 建筑初步
 
 ![alt 建筑初步](/assets/img/arch-pre.jpg)
+{: .bookcover}
 
 
 ### <!-- 建筑设计教程 -->
@@ -68,12 +69,15 @@ length: "10:14" # mm:ss
 ### 建筑设计资料集
 
 ![alt 建筑设计资料集](/assets/img/arch-lib.jpg)
+{: .bookcover}
 
 ### 建筑语汇
 
 ![alt 建筑语汇](/assets/img/arch-voc.jpg)
+{: .bookcover}
 
 ### 新版简明建筑设计资料集成
 
 ![alt 新版简明建筑设计资料集成](/assets/img/arch-simp.jpg)
+{: .bookcover}
 
