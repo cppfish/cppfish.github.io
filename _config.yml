@@ -15,6 +15,12 @@ keywords: [computer science, jekyll, program]
 #Plugins
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input:  GFM
+  syntax_highlighter: rouge
+
 #exclude: [_podcast.rss] #Ignore this, it will be used in case I decide to add rss feed
 
 #Pagination

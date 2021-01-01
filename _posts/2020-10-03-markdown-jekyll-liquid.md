@@ -10,7 +10,17 @@ cover: /assets/img/golang-3.jpg
 ---
 
 
+## jekyll
 
+[jekyllrb](https://jekyllrb.com/docs/)
+
+
+
+## Theme
+
+[designed by Alessio](https://alessiofranceschi.me/)
+
+[Jekyll-Podcaster](https://github.com/PandaSekh/Jekyll-Podcaster)
 
 ## Markdown
 
@@ -19,17 +29,28 @@ cover: /assets/img/golang-3.jpg
 
 
 
-
 [kramdown](https://kramdown.gettalong.org/quickref.html)
 
 ![](/assets/img/mk-html.jpg)
 
-## jekyll
-
-[jekyllrb](https://jekyllrb.com/docs/)
 
 
+## Reference
+
+[Material Design User Interface](https://www.mdui.org/)
+
+teal（主色）
+
+~~~ruby
+mdui-color-teal      #009688
+~~~
 
 
 
+<code>
+	
+
+	this is code 
+
+</code>
 

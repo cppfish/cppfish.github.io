@@ -2,27 +2,27 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
     empty-cells: show;
-    border: 3px solid #6cc644;
+    border: 3px solid #00897B;
     width:100%;
 }
   
 td,th {
-    border-left: 1px solid #cbcbcb;
+    border-left: 1px solid #B2DFDB;
     border-width: 0 0 0 2px;
     font-size: 0.7rem;
     margin: 0;
     overflow: visible;
     padding: .5em 1em;
-    border-bottom: 2px solid #f2f2f2;
+    border-bottom: 2px solid #B2DFDB;
 }
  
 thead {
-    background-color: #d4effa;
+    background-color: #00796B;
 //    text-align: left;
     vertical-align: bottom;
+    color: #FFFFFF;
 }
 
 tbody {
     text-align: center;
-  
 }
