@@ -1,0 +1,79 @@
+likes:
+- Jekyll
+- Matlab
+- Python
+- Blender
+- Flac3D
+
+contact:
+- name: Email
+  url: mailto:erichueng@gmail.com
+
+- name: Linkedin
+  url: https://www.linkedin.com/in/erichueng
+- name: wechat
+  url: false
+
+softitem:
+- name: 腾讯会议
+  logo: 26218_48_1579089719.png
+  star: 4
+  version: beta
+  url : https://pc.qq.com/category/c99.html
+
+- name: QQ音乐
+  logo: 10_48_1539156989.png
+  star: 4
+  version: beta
+  url : false
+
+- name: 腾讯桌面
+  logo: 24688_48_1531921641.png
+  star: 2
+  version: beta
+  url : https://pc.qq.com/category/c99.html
+
+- name: qq
+  logo: 2_48_1482283025.png
+  star: 2
+  version: beta
+  url : https://pc.qq.com/category/c99.html
+
+- name: mail
+  logo: 14_48_1372850556.png
+  star: 2
+  version: beta
+  url : https://pc.qq.com/category/c99.html
+
+- name: typein
+  logo: 207_48_1451381126.png
+  star: 2
+  version: beta
+  url : https://pc.qq.com/category/c99.html
+
+- name: game
+  logo: 8033_48_1477983163.png
+  star: 2
+  version: beta
+  url : https://pc.qq.com/category/c99.html
+
+- name: wechat
+  logo: 11488_48_1421390511.png
+  star: 2
+  version: beta
+  url : https://pc.qq.com/category/c99.html
+
+- name: tim
+  logo: 23258_48_1585706547.png
+  star: 2
+  version: beta
+  url : https://pc.qq.com/category/c99.html
+
+- name: what?
+  logo: 26218_48_1579089719.png
+  star: 2
+  version: beta
+  url : https://pc.qq.com/category/c99.html
+
+
+

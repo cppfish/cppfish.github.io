@@ -4,7 +4,7 @@ layout: post
 tag: [List, Golang]
 categories: [coding]
 type: main
-description: Description goes here
+description: Description goes here Description goes here Description goes here Description goes here
 length: "52:14" # mm:ss
 cover: /assets/img/golang-3.jpg
 ---
