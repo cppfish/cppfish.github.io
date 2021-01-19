@@ -51,3 +51,4 @@ description: 梳理城乡规划需熟悉的技术标准。
 | 19   |《城市综合交通体系规划标准》 <a href="http://mohurd.gov.cn/wjfb/201903/t20190320_239844.html">PDF</a> |    |
 | 20 |  《城市综合交通体系规划编制导则》 <a href="http://www.mohurd.gov.cn/wjfb/201006/t20100608_201282.html">PDF</a>   |   |
 | 21 | 城市对外交通规划规范 <a href="http://mohurd.gov.cn/wjfb/201509/t20150915_224900.html">PDF</a> |   |
+{: .pure-table .pure-table-bordered}

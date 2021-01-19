@@ -135,3 +135,36 @@ Theme designed and created by [Alessio Franceschi](https://github.com/PandaSekh/
 The theme is available as open source under the terms of the [MIT License](https://github.com/PandaSekh/Jekyll-YAMT/blob/master/LICENSE.txt).
 TL;DR
 Use it for free but keep my name in the footer. Thanks!
+
+
+
+------
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    empty-cells: show;
+    border: 3px solid #00897B;
+    width:100%;
+}
+  
+td,th {
+    border-left: 1px solid #B2DFDB;
+    border-width: 0 0 0 2px;
+    font-size: 0.7rem;
+    margin: 0;
+    overflow: visible;
+    padding: .5em 1em;
+    border-bottom: 2px solid #B2DFDB;
+}
+ 
+thead {
+    background-color: #00796B;
+//    text-align: left;
+    vertical-align: bottom;
+    color: #FFFFFF;
+}
+
+tbody {
+    text-align: center;
+}

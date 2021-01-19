@@ -9,17 +9,25 @@ permalink: /tags
 {% assign tag_words = site_tags | split:',' | sort %}
 <!-- tag_words: {{ tag_words }} -->
 
-<ul class="tag-box">
+<div id="nav" class="pure-button-group">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-  <li><a href="#{{ this_word | cgi_escape }}" rel="nofollow">{{ this_word }} <sup>{{ site.tags[this_word].size }}</sup></a></li>
+  <button class="pure-button">
+  <a href="#{{ this_word | cgi_escape }}" rel="nofollow">{{ this_word }} 
+  	<sup>{{ site.tags[this_word].size }}</sup></a>
+  </button>
   {% endunless %}{% endfor %}
-</ul>
+</div>
+
+<br>
+<br>
 
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
 {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-<h4 id="{{ this_word | cgi_escape }}">{{ this_word }}</h4>
+<button class="pure-button pure-button-disabled" id="{{ this_word | cgi_escape }}">{{ this_word }}</button>
   {% for post in site.tags[this_word] %}{% if post.title != null %}
-  <ul><li>{{ post.date | date: "%Y-%m-%d" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li></ul>
+  <ul class="pure-menu-list">
+  	<li class="categories">{{ post.date | date: "%Y-%m-%d" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  </ul>
   {% endif %}{% endfor %}
 {% endunless %}{% endfor %}

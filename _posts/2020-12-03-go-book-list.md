@@ -39,6 +39,7 @@ cover: /assets/img/go-books.jpg
 | 24 | WebRTC音视频开发 React+Flutter+Go实践 |  |
 | 25 | Go语言公链开发实践 |  |
 | 26 | Go语言入门经典 |  |
+{: .pure-table .pure-table-bordered}
 
 
 

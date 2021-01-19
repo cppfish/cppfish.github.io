@@ -1,0 +1,30 @@
+---
+title: "grid css 4"
+layout: page
+permalink: /purecol
+---
+
+<!-- truncatewords 仅英语单词有效果 -->
+
+<div class="pure-g">
+    {% for item in site.data.about.softitem %}
+    <div class="pure-u-1 pure-u-md-1-4 pure-u-sm-1-2">
+        <div class="pure-table">
+        <img src="/imglogo/{{item.logo}}">
+    {{item.name}}
+         {% if item.url %}
+          <button>
+              <a href="{{item.url}}">高速下载</a>
+          </button>    
+          {% else %}
+          <button>
+          <a href="#">无</a> 
+          </button>    
+          {% endif %} 
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+
+
