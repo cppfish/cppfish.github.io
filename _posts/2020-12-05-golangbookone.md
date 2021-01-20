@@ -9,6 +9,8 @@ videoid: #
 cover: /assets/img/golangbook_1.jpg
 ---
 
+* TOC
+{:toc}
 
 # 第一章 认识Go语言
 
