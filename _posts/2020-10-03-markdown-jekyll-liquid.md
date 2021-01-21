@@ -47,10 +47,12 @@ mdui-color-teal      #009688
 
 
 
-<code>
-	
+```c
+	#include <.h>
+		#ifndef SYMBOL
+		#define SYMBOL value
+		#endif
+	// this is code 
 
-	this is code 
-
-</code>
+```
 

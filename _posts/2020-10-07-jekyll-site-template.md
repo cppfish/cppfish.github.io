@@ -25,3 +25,14 @@ cover: /assets/img/golang-3.jpg
 [bit-ranger](https://github.com/bit-ranger/blog)
 
 
+
+```java
+    # ...ruby code
+```
+
+
+```ruby
+	def foo
+	  puts 'foo'
+	end
+```
