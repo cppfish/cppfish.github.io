@@ -52,7 +52,7 @@ RPC（远程过程调用协议）
 ### 数据库
 
 
-关系型数据库
+关系型数据库管理系统
 
 - MySQL
 - Microsoft SQL Server
@@ -70,3 +70,8 @@ RPC（远程过程调用协议）
 - Redis
 - Membase
 
+- memcached
+- Tokyo Tyrant 
+
+
+> 《NoSQL数据库入门》_人民邮电出版社_
