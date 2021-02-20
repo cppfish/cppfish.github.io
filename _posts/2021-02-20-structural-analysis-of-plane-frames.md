@@ -13,14 +13,12 @@ cover: /imglogo/24688_48_1531921641.png
 
 | No.    |   软件  |     链接  |
 | :-----:| :----: | :----: |
-| 1 | StaR2  |    https://www.ibb.uni-stuttgart.de/lehre/teachware/star-der-stabwerksrechner/   |
-| 2 | DinoBox_DinoSap2D实用平面结构求解器  | http://dinochen.com/article.asp?id=186      |
-| 3 | 结构力学.NET(BETA)  | http://www.jglx.net/      |
-| 4 | EngiLab Beam.2D    | https://www.engilab.com/  |
+| 1 | StaR2  |    <a href="https://www.ibb.uni-stuttgart.de/lehre/teachware/star-der-stabwerksrechner/">ibb.uni-stuttgart.de</a>   |
+| 2 | DinoBox_DinoSap2D实用平面结构求解器  | <a href="http://dinochen.com/article.asp?id=186">dinochen.com</a>      |
+| 3 | 结构力学.NET(BETA)  |  <a href="http://www.jglx.net/">jglx.net</a>      |
+| 4 | EngiLab Beam.2D    |  <a href="https://www.engilab.com/">engilab.com</a>  |
 | 5 | EngiLab Truss.2D 2019    | To be announced      |
-| 6 | FTOOL    | https://webserver2.tecgraf.puc-rio.br/ftool/index_en.html   链接失效   |
-| 6 | FTOOL    | To be announced      |
-| 6 | FTOOL    | To be announced      |
+| 6 | FTOOL    |  <a href="https://webserver2.tecgraf.puc-rio.br/ftool/index_en.html">webserver2.tecgraf.puc-rio.br</a>   链接失效   |
 {: .pure-table .pure-table-bordered}
 
 
