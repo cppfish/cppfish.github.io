@@ -18,7 +18,7 @@ cover: /imglogo/24688_48_1531921641.png
 | 3 | 结构力学.NET(BETA)  |  <a href="http://www.jglx.net/">jglx.net</a>      |
 | 4 | EngiLab Beam.2D    |  <a href="https://www.engilab.com/">engilab.com</a>  |
 | 5 | EngiLab Truss.2D 2019    | To be announced      |
-| 6 | FTOOL    |  <a href="https://webserver2.tecgraf.puc-rio.br/ftool/index_en.html">webserver2.tecgraf.puc-rio.br</a>   链接失效   |
+| 6 | FTOOL    |  <a href="https://webserver2.tecgraf.puc-rio.br/ftool/index_en.html">puc-rio.br</a>   |
 {: .pure-table .pure-table-bordered}
 
 
