@@ -168,3 +168,17 @@ thead {
 tbody {
     text-align: center;
 }
+
+
+解决本地编译bug
+
+gem install webrick
+
+bundle add webrick
+
+添加gem源
+
+$ gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
+$ gem sources -l
+https://gems.ruby-china.com
+# 确保只有 gems.ruby-china.com
