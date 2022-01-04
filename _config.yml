@@ -1,11 +1,11 @@
 # Site settings
 title: "长风"
-description: "吾生也有涯，而知也无涯，以有涯随无涯，殆已。"
-podcast-description: "吾生也有涯，而知也无涯，以有涯随无涯，殆已。"
+description: "不积跬步，无以至千里；不积小流，无以成江海。 – 荀子"
+podcast-description: "不积跬步，无以至千里；不积小流，无以成江海。 – 荀子"
 url:  # Actual base url of the website
 baseurl: #"/"   # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Erick"
+  name: "长风"
   email: "erichueng@gmail.com"
   url: "https://github.com/cppfish"
 permalink: pretty
@@ -40,7 +40,7 @@ sass:
 #   app_id: # 
 logo: /assets/img/golang.jpg
 social:
-  name: Erick
+  name: 长风
   links:
     - https://github.com/cppfish
     - https://www.linkedin.com/in/erichueng

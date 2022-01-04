@@ -182,3 +182,28 @@ $ gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
 $ gem sources -l
 https://gems.ruby-china.com
 # 确保只有 gems.ruby-china.com
+
+
+{% comment %}
+<div id = "social">
+    {% for item in site.data.settings.social %}
+    {% if item.type == "brand"%}
+      <a href="{{ item.link }}" target="_blank" id="{{item.icon}}"><i class="fab fa-{{item.icon}}" aria-hidden="true"></i></a>
+    {% endif %}
+    {% if item.type == "solid"%}
+      <a href="{{ item.link }}" target="_blank" id="{{item.icon}}"><i class="fas fa-{{item.icon}}" aria-hidden="true"></i></a>
+    {% endif %} 
+  {% endfor %}
+</div>
+
+<div id = "ascoltare">
+    <h3>Where To Listen</h3>
+    <div id = "lista-siti">
+        <ul id = "siti">
+          {% for item in site.data.settings.websites-podcast  %}
+          <li><a href="{{ item.url | absolute_url}}"> {{ item.name }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+</div>
+{% endcomment %}
