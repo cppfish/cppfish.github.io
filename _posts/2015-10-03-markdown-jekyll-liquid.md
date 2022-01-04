@@ -57,4 +57,7 @@ teal（主色）
 
 未来将参照 [Lightfish Zhang](https://lightfish.cn/) 的网站，美化布局。
 
-将增加参照 [Feeling-Responsive](https://phlow.github.io/feeling-responsive/design/gallery/) 增加大图片浏览的效果。 
+将参照 [Feeling-Responsive](https://phlow.github.io/feeling-responsive/design/gallery/) 增加大图片浏览的效果。 
+
+将融合 ![](https://purecss.io/img/logo_pure@2x.png)
+

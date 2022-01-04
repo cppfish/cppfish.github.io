@@ -12,7 +12,7 @@ permalink: /tags
 <div id="nav" class="pure-button-group">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-  <button class="pure-button">
+  <button class="pure-button button-warning">
   <a href="#{{ this_word | cgi_escape }}" rel="nofollow">{{ this_word }} 
   	<sup>{{ site.tags[this_word].size }}</sup></a>
   </button>
@@ -20,14 +20,19 @@ permalink: /tags
 </div>
 
 <br>
-<br>
 
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
 {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-<button class="pure-button pure-button-disabled" id="{{ this_word | cgi_escape }}">{{ this_word }}</button>
+<button class="pure-button button-secondary" id="{{ this_word | cgi_escape }}">{{ this_word }}</button>
   {% for post in site.tags[this_word] %}{% if post.title != null %}
-  <ul class="pure-menu-list">
+  <!-- <ul class="pure-menu-list"> -->
+    <ul>
   	<li class="categories">{{ post.date | date: "%Y-%m-%d" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
   </ul>
   {% endif %}{% endfor %}
 {% endunless %}{% endfor %}
+
+<button class="button-success pure-button">Success Button</button>
+<button class="button-error pure-button">Error Button</button>
+<button class="button-warning pure-button">Warning Button</button>
+<button class="button-secondary pure-button">Secondary Button</button>
