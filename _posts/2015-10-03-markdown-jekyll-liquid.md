@@ -29,6 +29,17 @@ teal（主色）
 ~~~
 
 
+```java
+    # ...ruby code
+```
+
+
+```ruby
+	def foo
+	  puts 'foo'
+	end
+```
+
 使用 Markdown 记录内容，Markdown使用方法如下：
 
 [jekyllrb](https://jekyllrb.com/docs/)
@@ -61,3 +72,24 @@ teal（主色）
 
 将融合 ![](https://purecss.io/img/logo_pure@2x.png)
 
+
+以下是一些使用Jekyll搭建的网站
+
+[long-pig](https://long-pig.cloudvent.net/)
+
+
+[kejummao](https://github.com/KeJunMao/jekyll-theme-material)
+
+
+[bit-ranger](https://github.com/bit-ranger/blog)
+
+
+[字体设置](https://ridiqulous.com/chinese-webfont-guide/)
+
+```css
+font-family: Georgia, -apple-system, 'Nimbus Roman No9 L', 'PingFang SC', 'Hiragino Sans GB', 'Noto Serif SC', 'Microsoft Yahei', 'WenQuanYi Micro Hei', 'ST Heiti', sans-serif
+```
+
+```
+font-family: Verdana, Arial, "Microsoft YaHei", "微软雅黑","Droid Sans", sans-serif;
+```

@@ -7,7 +7,7 @@ $darker-color: #B2DFDB; //rgba(0, 160, 227, 0.2);
             box-sizing: border-box;
             margin: 0px;
             padding: 0px;
-            font-family: Verdana, Arial, "Microsoft YaHei", "微软雅黑","Droid Sans", sans-serif;
+            font-family: Georgia, -apple-system, 'Nimbus Roman No9 L', 'PingFang SC', 'Hiragino Sans GB', 'Noto Serif SC', 'FangSong','SimSun', 'WenQuanYi Micro Hei', 'ST Heiti', sans-serif;
 }
 html{
     scroll-behavior: smooth;
@@ -17,6 +17,7 @@ a{
     text-decoration: none;
 }
 p{
+    
     a{
         display: inline-block;
         font-style: italic;
@@ -37,7 +38,7 @@ p{
     align-items: flex-start;
     .content{
         order: 1;
-        width: 55%;
+        width: 60%;
     }
 
 }

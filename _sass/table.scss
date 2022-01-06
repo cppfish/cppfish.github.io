@@ -11,7 +11,6 @@
 
 .pure-table caption {
     color: #000;
-    font: italic 85%/1 arial, sans-serif;
     padding: 1em 0;
     text-align: center;
 }
@@ -20,7 +19,6 @@
 .pure-table th {
     border-left: 1px solid #cbcbcb;/*  inner column border */
     border-width: 0 0 0 1px;
-    font-size: inherit;
     margin: 0;
     overflow: visible; /*to make ths where the title is really long work*/
     padding: 0.5em 1em; /* cell padding */
