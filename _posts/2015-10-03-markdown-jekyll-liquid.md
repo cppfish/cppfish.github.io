@@ -4,7 +4,7 @@ layout: post
 tag: [List, Golang]
 categories: [coding]
 type: main
-description: Jekyll使用开源模板语言，由 Github Page 生成静态网页。
+description: Jekyll使用开源模板语言Liquid，由 Github Page 生成静态网页。
 length: "02:14" # mm:ss
 cover: /assets/img/golang-3.jpg
 ---
