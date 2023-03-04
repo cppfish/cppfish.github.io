@@ -6,7 +6,7 @@ categories: [ DM ]
 type: extra
 description: 公路工程造价依据
 length: "12:14" # mm:ss
-cover: http://www.tup.tsinghua.edu.cn/upload/bigbookimg/083943-01.jpg
+cover: /assets/data/dm.jpg
 ---
 
 核心内容：
