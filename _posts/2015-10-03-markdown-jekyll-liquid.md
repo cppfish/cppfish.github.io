@@ -6,7 +6,7 @@ categories: [coding]
 type: main
 description: Jekyll使用开源模板语言Liquid，由 Github Page 生成静态网页。
 length: "02:14" # mm:ss
-cover: /assets/img/golang-3.jpg
+cover: /assets/img/octojekyll.png
 ---
 
 在 [LLJ](https://luolinjia.com) 的启发下，开始在Github创建个人网站。

@@ -6,7 +6,7 @@ categories: [coding]
 type: extra
 description: 结构力学平面框架计算软件。
 length: "12:14" # mm:ss
-cover: /imglogo/24688_48_1531921641.png
+cover: /assets/design/cost_man.jpg
 ---
 
 
