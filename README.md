@@ -1,12 +1,5 @@
-# [Jekyll Podcaster](https://jekyll-podcaster.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/249c3da6-7b23-4b57-915d-71934329e306/deploy-status)](https://jekyll-podcaster.netlify.app/)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PandaSekh/Jekyll-Podcaster/issues)
-[![GitHub forks](https://img.shields.io/github/forks/PandaSekh/Jekyll-Podcaster)](https://github.com/PandaSekh/Jekyll-Podcaster/network)
-## [Live Demo](https://jekyll-podcaster.netlify.app/)
-
-![Homepage](https://raw.githubusercontent.com/PandaSekh/Jekyll-Podcaster/master/assets/screenshots/Homepage.png)
-
-Jekyll Podcaster is a [Jekyll](http://jekyllrb.com) theme built for podcasters. Every podcast needs a great website and this theme helps you achieve that.
+Jekyll Podcaster is a [Jekyll](http://jekyllrb.com) theme built for podcasters. 
+Every podcast needs a great website and this theme helps you achieve that.
 
 Please note that this theme will not build a RSS feed for your podcast, meaning that this is just for showcasing your podcast and not for distributing it. You still need to use a distribution platform.
 
