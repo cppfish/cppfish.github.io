@@ -20,25 +20,16 @@ Please note that this theme will not build a RSS feed for your podcast, meaning 
 
 ## Screenshots
 Mobile:  
-![Mobile](https://raw.githubusercontent.com/PandaSekh/Jekyll-Podcaster/master/assets/screenshots/Mobile.png)
 
 ## Installation
 
 There are four way to use this theme: Netlify, Github Pages, as a gem-based theme and by forking this repo.
 
-### Download the files
-You can [download the files](https://github.com/PandaSekh/Jekyll-Podcaster/releases/latest) and add them in your directory to start working.
-
-### Netlify
-
-1. [Fork this repo](https://github.com/PandaSekh/Jekyll-Podcaster/generate). You can copy only master, set it to private or public and name it however you want.
-2. Go to [Netlify](https://app.netlify.com/), create a New site from Git, choose your repo or all repos, no difference. Back to Netlify, select the recently forked repo.
-3. Owner and branch are good to go. In build command write `bundle exec jekyll build` and publishing directory should be `_site/`.
-4. Deploy. Your site will shortly be available. Under domain settings you can change your subdomain, or add a primary level one.
-
 ### Github Pages
 
-Github Pages uses the [--safe flag](https://jekyllrb.com/docs/configuration/options/) to build jekyll websites, which disable custom plugins, caching to disk and ignore symbolic links. Because of that, I suggest you to use any other method. Netlify works great with a 5 minute config, so I suggest you use it.
+Github Pages uses the [--safe flag](https://jekyllrb.com/docs/configuration/options/) to build jekyll websites, which disable custom plugins, caching to disk and ignore symbolic links. Because of that, I suggest you to use any other method. 
+
+Netlify works great with a 5 minute config, so I suggest you use it.
 
 1. [Fork this repo](https://github.com/PandaSekh/Jekyll-Podcaster/generate).
 2. Create a new branch in your repo and call it `gh-pages`.
@@ -107,7 +98,10 @@ You need three different dimensions of your podcast cover for this website:
 Put those images in the /assets/img/ folder.
 
 ### config.yml
-It's the usual file in every Jekyll theme. Just compile it. The last part about the podcast metadata is optional, as at the moment this theme won't create a RSS feed. It's just there in case I find the time to add it in the future.
+It's the usual file in every Jekyll theme. 
+Just compile it. 
+The last part about the podcast metadata is optional, as at the moment this theme won't create a RSS feed. 
+It's just there in case I find the time to add it in the future.
 
 
 ## Development
