@@ -60,3 +60,13 @@ podcast_email: erichueng@gmail.com
 # podcast_copyright: "&#xA9;Alessio Franceschi"
 # podcast_feed: 
 # podcast_artwork: "/assets/img/Podcast_Cover.png"
+
+exclude:
+  - update-commit.bat
+  - update-build.bat
+  - update_rubygems.bat
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - /node_modules
+  - /screenshots
