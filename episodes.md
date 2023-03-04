@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /episodes
 title: 图书清单
 ---
 <div class = "episodes">

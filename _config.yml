@@ -1,5 +1,5 @@
 # Site settings
-title: "长风"
+title: "ZHANG"
 description: "不积跬步，无以至千里；不积小流，无以成江海。 – 荀子"
 podcast-description: "不积跬步，无以至千里；不积小流，无以成江海。 – 荀子"
 url:  # Actual base url of the website
@@ -24,7 +24,7 @@ kramdown:
 #exclude: [_podcast.rss] #Ignore this, it will be used in case I decide to add rss feed
 
 #Pagination
-paginate: 5
+paginate: 6
 paginate_path: "/page-:num/"
 
 #Sass
