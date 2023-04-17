@@ -4,7 +4,7 @@ layout: post
 tag: [Love]
 categories: [ Love ]
 type: extra
-description: 
+description: 成熟的爱，两个人，既要保持自我的完整性和独立性，同时又要实现合二为一的联系，这其中的核心是要怀着积极地力量去和他人发生联系。
 length: "22:13" # mm:ss
 cover: /assets/s2990934.jpg
 ---
