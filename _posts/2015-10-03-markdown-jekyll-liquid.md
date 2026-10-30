@@ -93,3 +93,18 @@ font-family: Georgia, -apple-system, 'Nimbus Roman No9 L', 'PingFang SC', 'Hirag
 ```
 font-family: Verdana, Arial, "Microsoft YaHei", "微软雅黑","Droid Sans", sans-serif;
 ```
+
+使用了以下代码：
+
+[LUOLINJIA](https://github.com/luolinjia/cn)
+
+
+```
+git add .
+
+git commit -m "update new function"
+
+git push origin master
+
+
+```

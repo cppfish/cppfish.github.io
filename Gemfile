@@ -3,6 +3,7 @@
 # source "https://rubygems.org"
 
 source "https://gems.ruby-china.com"
+# source "http://mirrors.tuna.tsinghua.edu.cn/rubygems"
 # gemspec
 
 gem 'jekyll'

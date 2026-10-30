@@ -1,9 +1,12 @@
 analytics-id: 
 #Pages
 pages:
-  - {name: 'Episodes', url: 'episodes.html'}
+  - {name: 'Archive', url: 'archive.html'}
   - {name: 'Categories', url: 'categories.html'}
-  - {name: 'Pure', url: 'purecss.html'}
+  - {name: 'LiquidText', url: 'liquidtext.html'}
+#  - {name: 'Essays', url: 'essays.html'}
+  - {name: 'Reading List', url: 'readinglist.html'}
+  - {name: 'Anytype', url: 'anytype.html'}
 
 social:
   - {icon: 'youtube', type: "brand", link: '#'}  

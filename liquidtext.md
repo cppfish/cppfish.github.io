@@ -1,7 +1,7 @@
 ---
-title: "grid css"
+title: "Liquid Text"
 layout: page
-permalink: /purecss
+permalink: /liquidtext
 ---
 
 
