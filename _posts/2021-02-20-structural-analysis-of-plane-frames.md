@@ -10,7 +10,7 @@ cover: /assets/design/cost_man.jpg
 ---
 
 
-
+<div class="table-wrap">
 | No.    |   软件  |     链接  |
 | :-----:| :----: | :----: |
 | 1 | StaR2  |    <a href="https://www.ibb.uni-stuttgart.de/lehre/teachware/star-der-stabwerksrechner/">ibb.uni-stuttgart.de</a>   |
@@ -20,7 +20,7 @@ cover: /assets/design/cost_man.jpg
 | 5 | EngiLab Truss.2D 2019    | To be announced      |
 | 6 | FTOOL    |  <a href="https://webserver2.tecgraf.puc-rio.br/ftool/index_en.html">puc-rio.br</a>   |
 {: .pure-table .pure-table-bordered}
-
+</div>
 
 参考：
 
