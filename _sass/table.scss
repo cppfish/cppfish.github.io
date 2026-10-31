@@ -62,7 +62,32 @@ striping:
 .pure-table-bordered tbody > tr:last-child > td {
     border-bottom-width: 0;
 }
-
+// 长风主题色定义，方便统一修改
+ $theme-primary: #009688;
+ $theme-primary-dark: #00796b;
+ $theme-border-light: #b2dfdb;
+ $theme-bg-odd: #f0f9f8;
+ $theme-bg-hover: #e0f2f1;
+ .pure-table.pure-table-bordered {
+   border-collapse: collapse;
+   border: 1px solid $theme-primary;
+   th {
+     background-color: $theme-primary;
+     color: #ffffff;
+     border: 1px solid $theme-primary-dark;
+   }
+   td {
+     border: 1px solid $theme-border-light;
+   }
+   tbody {
+     tr:nth-child(odd) td {
+       background-color: $theme-bg-odd;
+     }
+     tr:hover td {
+       background-color: $theme-bg-hover;
+     }
+   }
+}
 
 /* HORIZONTAL BORDERED TABLES */
 
