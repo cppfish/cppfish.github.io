@@ -27,13 +27,18 @@
 $pure-sm: 768px;
 
 .pure-table {
-  table-layout: fixed;
+  table-layout: auto;
   width: 100%;
 
   td, th {
-    word-break: break-all;
     overflow-wrap: break-word;
     white-space: normal;
+  }
+
+  @media (max-width: $pure-sm) {
+    td, th {
+      word-break: break-all;
+    }
   }
 
   @media (min-width: $pure-sm) {
@@ -42,6 +47,7 @@ $pure-sm: 768px;
     }
   }
 }
+
 
 /* Consider removing this next declaration block, as it causes problems when
 there's a rowspan on the first cell. Case added to the tests. issue#432 */
