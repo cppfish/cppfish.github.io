@@ -1,11 +1,11 @@
 ---
-title: 设计工具集
+title: 道路设计工具集
 layout: post
 cover: /assets/design/g_flu_adj_tutcylvmag.png
 categories: [Architecture]
 tag: [technical, tools]
 type: main
-description: Design Tools
+description: Road Design Tools
 ---
 
 ## 一、国内道路主线设计软件
@@ -36,8 +36,10 @@ description: Design Tools
 | 5 | 柔性路面结构内部应力计算程序APBIH97 |
 | 6 | everfe2.24 |
 | 7 | everstresse |
+{: .pure-table .pure-table-bordered}
 
 ## 三、国外道路设计软件
+
 | 序号 | 软件名称 |
 | ---- | -------- |
 | 1 | Advanced Road Design |
@@ -66,19 +68,8 @@ description: Design Tools
 | 24 | RoadENG |
 | 25 | SierraSoft Pro St |
 | 26 | Vestra Road |
+{: .pure-table .pure-table-bordered}
 
 
-![](/assets/design/道路设计.png)
-
-![](/assets/design/房屋建筑结构设计软件.png)
 
 
-![](/assets/design/建筑设计.png)
-
-
-![](/assets/design/交通规划.png)
-
-
-![](/assets/design/桥梁设计.png)
-
-![](/assets/design/岩土工程.png)
