@@ -1,0 +1,81 @@
+---
+title: "Reading list"
+layout: page
+permalink: /readinglist
+---
+
+
+<!-- <div class="l-content"> -->
+
+<h2>Main 图书清单</h2>
+
+<div class="pure-g">
+{% for post in site.posts %}    
+    {% if post.type == "main" %}
+    
+    <div class="pure-u-1 pure-u-md-1-3">
+        <div class="pure-table">
+        <td>{{ post.title }}</td>
+
+         <th>
+        {% if post.cover %}
+        <img class="pure-img" src="{{ "/assets/img/bio-photo-2.jpg" | absolute_url}}" alt="">
+        
+        {% else %}
+        <img class="pure-img" src="{{post.cover}}" alt="">
+
+        {% endif %}
+        </th>
+
+            <!-- <img src="{{ "/assets/img/bio-photo-2.jpg" | absolute_url}}" alt=""> -->
+        </div>
+            <p>
+            {% if post.description %}
+                {{post.description | strip_html | truncatewords:10}}
+            {% else %}
+                {{ post.content | strip_html | truncatewords:10 }}
+            {% endif %}
+            </p>
+        <button class="pure-button"><a href="{{ post.url }}">Read...</a></button>
+    </div>
+
+    {% endif %}
+{% endfor %}
+</div> <!-- end pricing-tables -->
+
+
+
+<hr>
+
+
+<h2> Extra 阅读笔记 </h2>
+
+<div class="information pure-g">
+
+{% for post in site.posts %}    
+    {% if post.type == "extra" %}
+
+    <div class="pure-u-1 pure-u-md-1-2">
+        <div class="l-box">
+            <h3 class="information-head">{{ post.title }} </h3>
+            <img class="pure-img" src="{{ "/assets/img/so-simple-sample-image-1-400x200.jpg" | absolute_url}}" alt="">
+
+        <p>
+        {% if post.description %}
+            {{post.description | strip_html | truncatewords:10}}
+        {% else %}
+            {{ post.content | strip_html | truncatewords:10 }}
+        {% endif %}
+        </p>
+        <button class="pure-button"><a href="{{ post.url }}">Read...</a></button>
+
+        </div>
+    </div>
+    
+    {% endif %}
+{% endfor %}
+
+</div> <!-- end information -->
+
+
+<!-- </div>  --><!-- end l-content -->
