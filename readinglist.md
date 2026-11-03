@@ -5,77 +5,49 @@ permalink: /readinglist
 ---
 
 
-<!-- <div class="l-content"> -->
-
-<h2>Main 图书清单</h2>
-
-<div class="pure-g">
-{% for post in site.posts %}    
-    {% if post.type == "main" %}
-    
-    <div class="pure-u-1 pure-u-md-1-3">
-        <div class="pure-table">
-        <td>{{ post.title }}</td>
-
-         <th>
-        {% if post.cover %}
-        <img class="pure-img" src="{{ "/assets/img/bio-photo-2.jpg" | absolute_url}}" alt="">
-        
-        {% else %}
-        <img class="pure-img" src="{{post.cover}}" alt="">
-
-        {% endif %}
-        </th>
-
-            <!-- <img src="{{ "/assets/img/bio-photo-2.jpg" | absolute_url}}" alt=""> -->
-        </div>
-            <p>
-            {% if post.description %}
-                {{post.description | strip_html | truncatewords:10}}
-            {% else %}
-                {{ post.content | strip_html | truncatewords:10 }}
-            {% endif %}
-            </p>
-        <button class="pure-button"><a href="{{ post.url }}">Read...</a></button>
-    </div>
-
-    {% endif %}
+<div id='tag_cloud'>
+{% for tag in site.tags %}
+<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
 {% endfor %}
-</div> <!-- end pricing-tables -->
+</div>
 
-
-
-<hr>
-
-
-<h2> Extra 阅读笔记 </h2>
-
-<div class="information pure-g">
-
-{% for post in site.posts %}    
-    {% if post.type == "extra" %}
-
-    <div class="pure-u-1 pure-u-md-1-2">
-        <div class="l-box">
-            <h3 class="information-head">{{ post.title }} </h3>
-            <img class="pure-img" src="{{ "/assets/img/so-simple-sample-image-1-400x200.jpg" | absolute_url}}" alt="">
-
-        <p>
-        {% if post.description %}
-            {{post.description | strip_html | truncatewords:10}}
-        {% else %}
-            {{ post.content | strip_html | truncatewords:10 }}
-        {% endif %}
-        </p>
-        <button class="pure-button"><a href="{{ post.url }}">Read...</a></button>
-
-        </div>
-    </div>
-    
-    {% endif %}
+<ul class="listing">
+{% for tag in site.tags %}
+  <li class="listing-seperator {{ tag[0] }}">{{ tag[0] }}</li>
+{% for post in tag[1] %}
+  <li class="listing-item {{ tag[0] }}">
+  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+  <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="listing-item-a">{{ post.title }}</a>
+  </li>
 {% endfor %}
+{% endfor %}
+</ul>
 
-</div> <!-- end information -->
-
-
-<!-- </div>  --><!-- end l-content -->
+<script src="/medias/js/jquery-1.7.1.min.js" type="text/javascript" charset="utf-8"></script> 
+<script src="/medias/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
+<script language="javascript">
+    $.fn.tagcloud.defaults = {
+        size: {start: 14, end: 42, unit: 'px'},
+        color: {start: '#ACE6E6', end: '#226666'}
+    };
+    $(function () {
+        $('.listing-seperator, .listing-item').hide();
+        var recentColor, recentSize;
+        $('#tag_cloud a')
+            .tagcloud()
+            .mouseover(function(){
+                var thiz = $(this);
+                recentColor = thiz.css('color');
+                //recentSize = thiz.css('font-size');
+                thiz.css({'color': '#226666'});
+            })
+            .mouseout(function(){
+                $(this).css({'color': recentColor});
+            })
+            .click(function() { // update the showing tags style
+                var clazz = $(this).html();
+                $('.listing-seperator, .listing-item').hide();
+                $('.' + clazz).show();
+            });
+    });
+</script>
