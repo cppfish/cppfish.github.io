@@ -99,7 +99,7 @@ font-family: Verdana, Arial, "Microsoft YaHei", "微软雅黑","Droid Sans", san
 [LUOLINJIA](https://github.com/luolinjia/cn)
 
 
-```
+```css
 git add .
 
 git commit -m "update new function"
@@ -107,4 +107,17 @@ git commit -m "update new function"
 git push origin master
 
 
+```
+
+
+https://liquid.bootcss.com/basics/introduction/
+
+Jekyll YAMT
+
+```css
+https://github.com/PandaSekh/Jekyll-YAMT/tree/master
+
+https://github.com/luolinjia/cn/tree/gh-pages
+
+https://github.com/PandaSekh/Jekyll-Podcaster
 ```
