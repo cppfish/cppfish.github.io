@@ -4,6 +4,9 @@ layout: page
 permalink: /anytype
 ---
 
+
+<div class="archive-group">
+
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
@@ -17,3 +20,5 @@ permalink: /anytype
   </li>
 {% endfor %}
 </ul>
+
+</div>

@@ -3,9 +3,8 @@ analytics-id:
 pages:
   - {name: 'Archive', url: 'archive.html'}
   - {name: 'Categories', url: 'categories.html'}
-  - {name: 'LiquidText', url: 'liquidtext.html'}
-#  - {name: 'Essays', url: 'essays.html'}
-  - {name: 'Reading List', url: 'readinglist.html'}
+  - {name: 'tags', url: 'tags.html'}
+#  - {name: 'Reading List', url: 'readinglist.html'}
   - {name: 'Anytype', url: 'anytype.html'}
 
 social:
@@ -22,3 +21,8 @@ shownotes: #
 #Disqus
 disqus:
   disqus_shortname: #
+
+#Show related posts based on categories
+related-posts:
+  active: true
+  title: "You May Also Enjoy"

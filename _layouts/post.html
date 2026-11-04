@@ -60,6 +60,11 @@ layout: default
                   {% unless forloop.last %}&nbsp;{% endunless %} 
                 {% endfor %}
         </div>
+		
+		
+	{% if site.data.settings.related-posts.active %}
+      {% include related-posts.html %}
+    {% endif %}
 
 </div>
 {% if site.settings.disqus-shortname %}
