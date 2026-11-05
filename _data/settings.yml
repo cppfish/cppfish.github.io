@@ -3,7 +3,7 @@ analytics-id:
 pages:
   - {name: 'Archive', url: 'archive.html'}
   - {name: 'Categories', url: 'categories.html'}
-  - {name: 'tags', url: 'tags.html'}
+  - {name: 'Tags', url: 'tags.html'}
 #  - {name: 'Reading List', url: 'readinglist.html'}
   - {name: 'Anytype', url: 'anytype.html'}
 
