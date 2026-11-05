@@ -1,6 +1,6 @@
 ---
 title: "标签"
-layout: tags
+layout: Tags
 permalink: /tags
 ---
 
